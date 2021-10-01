@@ -1,5 +1,6 @@
 ### Hi, I am Buddy Bunny 👋
-- 🌱 I’m currently learning Python and Ansible.
+- 🌱 I’m currently learning GitHub, Python and Ansible.
+- ⚡ Fun fact: I have done some of the intereting hikes: Mission Peak@Fremont, Mt. Diablo@Contra Costa County, Half Dome,  Mt. Whitney, Grand Canyon Rim to Rim and Mt. Fuji@Japan 
 <!--
 **buddy-bunny/buddy-bunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,13 +13,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 
 ### LANGUAGEs
 ### Cantonese, English, Mandarin &
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
+ <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 
 
 <a href="https://github.com/buddy-bunny">
