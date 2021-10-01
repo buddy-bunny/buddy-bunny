@@ -1,6 +1,6 @@
 ### Hi, I am Buddy Bunny 👋
 - 🌱 I’m currently learning GitHub, Python and Ansible.
-- ⚡ Fun fact: I have done some of the intereting hikes: Mission Peak@Fremont, Mt. Diablo@Contra Costa County, Half Dome,  Mt. Whitney, Grand Canyon Rim to Rim and Mt. Fuji@Japan 
+- ⚡ Fun facts: I have done some of the intereting hikes: Mission Peak@Fremont, Mt. Diablo@Contra Costa County, Half Dome,  Mt. Whitney, Grand Canyon Rim to Rim and Mt. Fuji@Japan 
 <!--
 **buddy-bunny/buddy-bunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
